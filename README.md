@@ -5,6 +5,8 @@
 * Latest build: [![Build Status][build-image]][build-link]
 * [Contributions are welcome](CONTRIBUTING.md).
 
+this is a demo text for the OSS workshop
+
 # Overview
 
 The GitHub Authentication plugin provides a means of securing a Jenkins instance by
